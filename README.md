@@ -31,5 +31,4 @@ Calcula el contenido GC, la longitud y la subcadena común más larga entre dos 
 ---
 
 **Equipo: Gene Miners 🚀**
-Antía Dorado Valín
-Pablo Torreira Pardo
+Antía Dorado Valín | Pablo Torreira Pardo
