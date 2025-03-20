@@ -1,8 +1,8 @@
-Gene_Miners
-
+## Gene_Miners
+```
 python3 -m pip install -r requirements.txt
 python3 challenge_II.py "Homo sapiens" output_II.txt
-
+```
 ## Information
 This script retrieves gene names from the NCBI Entrez database for a specified organism. 
 
