@@ -1,4 +1,4 @@
-Gene_Miners
+## Gene_Miners
 ```
 python3 -m pip install -r requirements.txt
 python3 challenge_I.py input_I.txt output_I.txt
